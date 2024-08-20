@@ -13,6 +13,7 @@
         "https://secure.fanboy.co.nz/fanboy-annoyance.txt",
         "https://rb.gy/qmps32",
         "https://raw.githubusercontent.com/jkrejcha/AdmiraList/master/AdmiraList.txt",
-        "https://big.oisd.nl/domainswild2"
+        "https://big.oisd.nl/domainswild2",
+        "https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_15_DnsFilter/filter.txt"
     ]
 }
